@@ -1,0 +1,47 @@
+body{
+	background-color: #5D002F;
+}
+.nav{
+	margin-top: 15px;
+	
+}
+.navc{
+	color:white;
+}
+h3,h5{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+h2,p{
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 1.8em;
+}
+.hbtn{
+	background: chocolate;
+	font-family: 'Montserrat', sans-serif;
+	color:brown;
+	font-style: bold;
+}
+a:hover{
+	color:black;
+	background: brown;
+}
+
+.tb{
+background-color: chocolate;
+}
+.btnt{
+	background :#5D002F;
+	color:brown;
+	text-decoration: none;
+}
+
+.thumb{
+	height:299px;
+	width:168px;
+}
+.th{
+	color:white;
+	font-size: 50px;
+}
